@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Components/MailsListview.qml</file>
+        <file>mailsmodel.cpp</file>
+        <file>mailsmodel.h</file>
+        <file>main.cpp</file>
+    </qresource>
+</RCC>

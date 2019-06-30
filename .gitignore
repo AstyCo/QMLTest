@@ -1,0 +1,16 @@
+*.user
+debug/
+release/
+Makefile
+*.Debug
+*.Release
+*.o
+*.exe
+ui_*.h
+moc_*.cpp
+*.pro.*
+*.bak
+*.tlog
+*.ipch
+list.txt
+*.sdf
